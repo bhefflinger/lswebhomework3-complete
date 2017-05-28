@@ -13,9 +13,9 @@
 
 My name is: Bill Hefflinger
 
-I like to: Consult for SQL DBA/Programming and .NET programming.  Dad, workaholic, and Xbox gamer.
+I like to: Consult for clients as a SQL DBA/Programmer and .NET programmer.  I'm a Dad, workaholic, and Xbox gamer.
 
-I'm learning: Full stack development.
+I'm learning: Full stack development and loving it.
 
 ```
 
